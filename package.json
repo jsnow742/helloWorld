@@ -1,6 +1,6 @@
 {
-  "name": "helloworld",
-  "version": "1.0.0",
+  "name": "hello-world",
+  "version": "1.0.1",
   "description": "Just a dummy project to learn GitHub, repositories, workflow, etc.",
   "main": "index.js",
   "scripts": {
