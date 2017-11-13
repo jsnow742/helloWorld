@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Just a dummy project to learn GitHub, repositories, workflow, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnow742/helloWorld.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Logan Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsnow742/helloWorld/issues"
+  },
+  "homepage": "https://github.com/jsnow742/helloWorld#readme"
+}
